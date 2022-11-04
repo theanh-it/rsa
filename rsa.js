@@ -1,3 +1,5 @@
+// mã hóa bất đối xứng
+
 const crypto = require("crypto")
 
 // The `generateKeyPairSync` method accepts two arguments:
